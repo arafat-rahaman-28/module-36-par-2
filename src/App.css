@@ -44,3 +44,9 @@
 .button-style {
 	margin: 4px 8px;
 }
+.basic-card-styles {
+	border: 2px solid lightblue;
+	border-radius: 12px;
+	padding: 16px;
+	margin: 16px;
+}
