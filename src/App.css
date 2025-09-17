@@ -50,3 +50,11 @@
 	padding: 16px;
 	margin: 16px;
 }
+
+.post-card {
+	text-align: left;
+	border: 2px solid lightpink;
+	border-radius: 12px;
+	padding: 12px;
+	margin: 12px;
+}
